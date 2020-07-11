@@ -1,0 +1,6 @@
+Background
+Car
+Chair
+Door
+Stairs
+Table
